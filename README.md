@@ -100,7 +100,7 @@ I deployed the Calculator smart contract to the Sepolia test network. Here’s h
 
 2. **Deploy using MetaMask**: I connected my MetaMask wallet to Remix IDE. After ensuring I had enough test ETH, I selected the "Injected Provider - MetaMask" environment in the `Deploy & Run Transactions` tab of Remix IDE, which connects to my MetaMask wallet. Then, I deployed the contract to the Sepolia test network. Please see below Etherscan screenshot. 
 
-![Screenshot Placeholder](https://via.placeholder.com/800x400.png)
+![Deployed Contract Screenshot](https://github.com/jason-victor1/Calculator-Smart-Contract/blob/main/deployed.png?raw=true)
 
 
 ## License
