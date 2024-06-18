@@ -91,6 +91,17 @@ To deploy and interact with this smart contract, I used [Remix IDE](https://remi
     ```solidity
     function get() public view returns (int256)
     ```
+    
+## Deployed to Blockchain
+
+I deployed the Calculator smart contract to the Sepolia test network. Here’s how I did it:
+
+1. **Get Free ETH**: I used the Sepolia faucet to obtain free ETH for the deployment. The faucet provides the necessary test ETH to cover gas fees.
+
+2. **Deploy using MetaMask**: I connected my MetaMask wallet to Remix IDE. After ensuring I had enough test ETH, I selected the "Injected Provider - MetaMask" environment in the `Deploy & Run Transactions` tab of Remix IDE, which connects to my MetaMask wallet. Then, I deployed the contract to the Sepolia test network. Please see below Etherscan screenshot. 
+
+![Screenshot Placeholder](https://via.placeholder.com/800x400.png)
+
 
 ## License
 
