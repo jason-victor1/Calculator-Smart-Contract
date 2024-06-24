@@ -103,6 +103,3 @@ I deployed the Calculator smart contract to the Sepolia test network. Here’s h
 ![Deployed Contract Screenshot](https://github.com/jason-victor1/Calculator-Smart-Contract/blob/main/deployed.png?raw=true)
 
 
-## License
-
-This project is licensed under the MIT License.
